@@ -1,0 +1,221 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>Coding Journey</title>
+<base target="_blank">
+<link rel="stylesheet" href="first_css.css">
+</head>
+<body>
+<ul>
+	<li><a href="home.htm" target="_self">Home</a></li>
+	<li><a href="ilovecoding.htm" target="_self">Websites</a></li>
+	<li><a class="active" href="university.htm" target="_self">University</a></li>
+</ul>
+<h1 style="font-size:50px;text-align:center;">Wonderful University Life</h1>
+<hr>
+<table id="t01" style="width:100%">
+<caption style="font-size:30px;margin:15px">Time Table Session 2016/17</caption>
+	<tr>
+	<th>Day/Time</th>
+	<th style="width:9%">8am - 9am</th>
+	<th style="width:9%">9am - 10am</th>
+	<th style="width:9%">10am - 11am</th>
+	<th style="width:9%">11am - 12am</th>
+	<th style="width:9%">12am - 1pm</th>
+	<th style="width:7%">1pm - 2pm</th>
+	<th style="width:9%">2pm - 3pm</th>
+	<th style="width:9%">3pm - 4pm</th>
+	<th style="width:9%">4pm - 5pm</th>
+	<th style="width:9%">5pm - 6pm</th>
+	</tr>
+	<tr>
+	<td>Monday</td>
+	<td>-</td>
+	<td>EAS 253 <br>DK3</td>
+	<td>EAS 253 <br>DK3</td>
+	<td>EAA 211 <br>DK8(T)</td>
+	<td>EAH 221 <br>DK8</td>
+	<td>REST</td>
+	<td>EAA 204 <br>MAK</td>
+	<td>EAA 204 <br>MAK</td>
+	<td>EAA 204 <br>MAK</td>
+	<td>EAA 204 <br>MAK</td>
+	</tr>
+	<tr>
+	<td>Tuesday</td>
+	<td>-</td>
+	<td>-</td>
+	<td>EAS 253 <br>BK1</td>
+	<td>EAA 211 <br>DK8(T)</td>
+	<td>EAA 211 <br>DK8(T)</td>
+	<td>REST</td>
+	<td>EAA 204 <br>MAK</td>
+	<td>EAA 204 <br>MAK</td>
+	<td>EAA 204 <br>MAK</td>
+	<td>EAA 204 <br>MAK</td>
+	</tr>
+	<tr>
+	<td>Wednesday</td>
+	<td>-</td>
+	<td>EAS 253 <br>DK2</td>
+	<td>-</td>
+	<td>EAG 245 <br>DK2</td>
+	<td>-</td>
+	<td>REST</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	</tr>
+	<tr>
+	<td>Thursday</td>
+	<td>-</td>
+	<td>EAA 273 <br>BS1</td>
+	<td>EAA 273 <br>BS1</td>
+	<td>EAA 273 <br>BS1</td>
+	<td>EAA 273 <br>BS1</td>
+	<td>REST</td>
+	<td>EAH 221 <br>DK8</td>
+	<td>EAH 221 <br>DK8</td>
+	<td>-</td>
+	<td>-</td>
+	</tr>
+	<tr>
+	<td>Friday</td>
+	<td>EAA 211 <br>DK2</td>
+	<td>EAA 211 <br>DK2</td>
+	<td>EAG 245 <br>DK3</td>
+	<td>EAG 245 <br>DK3</td>
+	<td>-</td>
+	<td>REST</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	</tr>
+</table>
+<br>
+<table style="width:100%;text-align:left;padding:5px 5px">
+<caption style="font-size:30px;margin:15px">Public Universities in Malaysia</caption>
+	<tr>
+	<th>University</th>
+	<th>City</th>
+	<th>State</th>
+	<th>Number of<br>Undergraduate</th>
+	<th>Website</th>
+	</tr>
+	<tr>
+	<td>University Malaya</td>
+	<td>Kuala Lumpur</td>
+	<td>Kuala Lumpur</td>
+	<td>18000</td>
+	<td><a href="https://www.um.edu.my/" target="_blank">University Malaya</a></td>
+	</tr>
+	<tr>
+	<td>University of Science Malaysia</td>
+	<td>Gelugor</td>
+	<td>Pulau Penang</td>
+	<td>30000</td>
+	<td><a href="https://www.usm.my/index.php/ms/" target="_blank">University of Science Malaysia</a></td>
+	</tr>
+	<tr>
+	<td>University Kebangsaan Malaysia</td>
+	<td>Bangi</td>
+	<td>Selangor</td>
+	<td>xxx</td>
+	<td><a href="https://www.um.edu.my/">University Kebangsaan Malaysia</a></td>
+	</tr>
+	<tr>
+	<td>University Putra Malaysia</td>
+	<td>Serdang</td>
+	<td>Selangor</td>
+	<td>xxx</td>
+	<td><a href="https://www.um.edu.my/">University Putra Malaysia</a></td>
+	</tr>
+	<tr>
+	<td>University Technology Malaysia</td>
+	<td>Skudai</td>
+	<td>Johor</td>
+	<td>xxx</td>
+	<td><a href="https://www.um.edu.my/">University Technology Malaysia</a></td>
+	</tr>
+	<tr>
+	<td>University Utara Malaysia</td>
+	<td>Sintok</td>
+	<td>Kedah</td>
+	<td>xxx</td>
+	<td><a href="https://www.um.edu.my/">University Utara Malaysia</a></td>
+	</tr>
+	<tr>
+	<td>University Malaysia Terengganu</td>
+	<td>Kuala Terengganu</td>
+	<td>Terengganu</td>
+	<td>9000</td>
+	<td><a href="https://www.umt.edu.my/">University Malaysia Terengganu</a></td>
+	</tr>
+	<tr>
+	<td>University Malaysia Pahang</td>
+	<td>Pekan</td>
+	<td>Pahang</td>
+	<td>15000</td>
+	<td><a href="http://www.ump.edu.my/en">University Malaysia Pahang</a></td>
+	</tr>
+	<tr>
+	<td>University Malaysia Perlis</td>
+	<td>Arau</td>
+	<td>Perlis</td>
+	<td>7000</td>
+	<td><a href="http://www.unimap.edu.my/index.php/my/">University Malaysia Perlis</a></td>
+	</tr>
+	<tr>
+	<td>University Malaysia Sarawak</td>
+	<td>Kota Samarahan</td>
+	<td>Sarawak</td>
+	<td>9000</td>
+	<td><a href="http://www.unimas.my/">University Malaysia Sarawak</a></td>
+	</tr>
+	<tr>
+	<td>University Malaysia Sabah (UMS)</td>
+	<td>Kota Kinabalu</td>
+	<td>Sabah</td>
+	<td>Unknown</td>
+	<td><a href="http://www.ums.edu.my/v5/">University Malaysia Sabah</a></td>
+	</tr>
+	<tr>
+	<td>Universiti Pendidikan Sultan Idris (UPSI)</td>
+	<td>Tanjong Malim</td>
+	<td>Perak</td>
+	<td>Unknown</td>
+	<td><a href="http://www.upsi.edu.my/">Universiti Pendidikan Sultan Idris</a></td>
+	</tr>
+	<tr>
+	<td>University Tun Hussein Onn Malaysia (UTHM)</td>
+	<td>Batu Pahat</td>
+	<td>Johor</td>
+	<td>Unknown</td>
+	<td><a href="http://www.uthm.edu.my/v2/">University Tun Hussein Onn Malaysia</a></td>
+	</tr>
+	<tr>
+	<td>Universiti Teknikal Malaysia Melaka (UTEM)</td>
+	<td>Batu Pahat</td>
+	<td>Melaka</td>
+	<td>10000</td>
+	<td><a href="http://www.utem.edu.my/portal/">Universiti Teknikal Malaysia Melaka</a></td>
+	</tr>
+	<tr>
+	<td>Universiti Sains Islam Malaysia (USIM)</td>
+	<td>Nilai</td>
+	<td>Negeri Sembilan</td>
+	<td>8000</td>
+	<td><a href="http://www.usim.edu.my/">Universiti Sains Islam Malaysia</a></td>
+	</tr>
+	<tr>
+	<td>International Islamic University Malaysia (UIAM)</td>
+	<td>Gombak</td>
+	<td>Kuala Lumpur</td>
+	<td>Unknown</td>
+	<td><a href="http://www.iium.edu.my/">International Islamic University Malaysia</a></td>
+	</tr>
+</table>
+</body>
+</html>

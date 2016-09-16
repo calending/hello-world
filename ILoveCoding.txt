@@ -1,0 +1,55 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>Coding Journey</title>
+<link rel="stylesheet" href="first_css.css">
+</head>
+<body>
+<ul>
+	<li><a href="home.htm">Home</a></li>
+	<li><a class="active" href="ilovecoding.htm">Websites</a></li>
+	<li><a href="university.htm">University</a></li>
+</ul>
+
+<h1 style="text-align:center;font-size:50px" title="My first day of coding is on 3rd September 2016!">Favourite Websites</h1>
+<hr>
+<h2>Social Media</h2>
+<ul style="position:static;background-color:pink;width:260px">
+<li>
+<a href="http://www.facebook.com" style="font-size:35px;" target="_blank">
+	<img src="facebook.png" 
+	style="width:90px;height:90px" alt="Facebook"></a>
+</li>
+<li>
+<a href="http://www.twitter.com" style="font-size:35px;" target="_blank">
+	<img src="twitter.png" 
+	style="width:90px;height:90px" alt="Twitter"></a>
+</li>
+</ul>
+<h2>E-commerce</h2>
+<ul style="position:static;background-color:pink;width:260px">
+<li>
+<a href="http://www.lelong.com.my/" style="font-size:35px;" target="_blank">
+	<img src="lelong-logo.png" 
+	style="width:90px;height:90px" alt="Lelong.my"></a>
+</li>
+<li>
+<a href="http://www.11street.my/" style="font-size:35px;" target="_blank">
+	<img src="11street.png" 
+	style="width:90px;height:90px" alt="11street.my"></a>
+</li>
+<li>
+<a href="http://www.lazada.com.my/" style="font-size:35px;" target="_blank">
+	<img src="lazada.png" 
+	style="width:90px;height:90px" alt="lazada.com.my"></a>
+</li>
+</ul>
+<h2>Programming</h2>
+<ul style="position:static;background-color:pink;width:130px">
+<li>
+<a href="http://www.w3schools.com/html/html5_intro.asp" style="font-size:35px;" target="_blank">
+	<img src="w3schools.jpg" 
+	style="width:90px;height:90px" alt="Lelong.my"></a>
+</li>
+</body>
+</html>

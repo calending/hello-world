@@ -1,0 +1,52 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>Coding Journey</title>
+<link rel="stylesheet" href="first_css.css">
+</head>
+<body>
+<ul style="position:fixed;top:0;left:0;width:100%">
+	<li><a class="active" href="home.htm">Home</a></li>
+	<li><a href="ilovecoding.htm">Websites</a></li>
+	<li><a href="university.htm">University</a></li>
+</ul>
+<h1 style="text-align:center;font-size:50px">Home</h1>
+<hr>
+<br>
+<ul style="position:static;background-color:pink">
+	<li style="float:left;width:50%">
+	<h2 style="margin: 10px 30px">I love Coding</h2>
+	<p style="margin:10px 40px;">I love Coding because coding can makes my mind focus only on one thing. I couldn't find any other thing which can have all my focus on it. This feeling is amazing. To make things better, I am learning faster than I thought I could. It doesn't matter if this skill will bring me something in return, I will just like it. With a grateful heart, I believe I will one day harvest the reap in my Coding Journey.</p>
+<br>
+</li>
+	<li style="float:left;width:50%;background-color:cyan">
+	<h2 style="margin: 10px 30px">I love Coding</h2>
+	<p style="margin:10px 40px;">I love Coding because coding can makes my mind focus only on one thing. I couldn't find any other thing which can have all my focus on it. This feeling is amazing. To make things better, I am learning faster than I thought I could. It doesn't matter if this skill will bring me something in return, I will just like it. With a grateful heart, I believe I will one day harvest the reap in my Coding Journey.</p>
+<br>
+</li>
+</ul>
+<br>
+<h2 style="font-size:50px">The movies that I love most!<h2>
+<script> 
+function movie(name) {
+	var pic;
+	if (name == 0) {
+		pic = "mebeforeyou.jpg"
+	} else if (name == 1) {
+		pic = "frozen.jpg"
+	}
+	document.getElementById('moviepic').src = pic;
+}
+</script>
+<img id="moviepic" src="mebeforeyou.jpg" width=480px height=270px>
+<p>
+<button type="button" onclick="movie(0)">Me Before You</button>
+<button type="button" onclick="movie(1)">Frozen</button>
+</p>
+<br>
+<audio controls>
+  <source src="lastchrismas_arianagrande.mp3" type="audio/mpeg">
+  Ops! We can't Play it :(
+</audio>
+</body>
+</html>
